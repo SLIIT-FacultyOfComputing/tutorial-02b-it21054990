@@ -26,8 +26,7 @@ int main()
     float cm, inches;
 
 
-   // printf("Enter a length in cm : ");
-    //scanf("%f",&cm);
+    
 
      cout << "Enter a length in cm : "
       cin>> cm;
