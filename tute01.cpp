@@ -35,7 +35,7 @@ int main()
     inches = cm / 2.54;
 
 
-    //printf("Length in inches is %f \n", inches);
+     
       cout << "Length in inches is: "<<inches<<"\n";
 
     return 0;
