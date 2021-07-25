@@ -18,7 +18,7 @@ printf("Hello World") --> std::cout << "Hello World";
 */
 
 
-#include <iostrem>
+#include <iostream>
 
 using namespace std;
 int main() 
@@ -28,7 +28,7 @@ int main()
 
     
 
-     cout << "Enter a length in cm : "
+     cout << "Enter a length in cm : ";
       cin>> cm;
 
 
